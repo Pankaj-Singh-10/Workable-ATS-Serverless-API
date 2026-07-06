@@ -35,5 +35,6 @@ curl -X POST http://localhost:3000/dev/candidates \
 # GET /applications
 curl http://localhost:3000/dev/applications?job_id=your_jobid_here
 
-## Demo Video Link:
-https://drive.google.com/file/d/1__cTDK-s2GhjQXsgyY-OQ7txRIlbrEum/view?usp=sharing
+## 📹 Demo Video
+
+**Demo Video Link** - https://drive.google.com/file/d/1__cTDK-s2GhjQXsgyY-OQ7txRIlbrEum/view?usp=sharing
